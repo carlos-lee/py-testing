@@ -1,3 +1,4 @@
+# -- coding:utf-8 --
 print 'Hello World!'
 print 'Hello Aggin'
 print 'I like typing this.'
